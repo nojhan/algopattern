@@ -13,7 +13,11 @@ So far, the demo contains:
     - purely functional (functions which returns parametrized lambdas),
     - strategy (composition of abstract classes),
     - policies (function parameters as templated variables),
-    - CRTP (Curiously Recurring Template Pattern)
+    - CRTP (Curiously Recurring Template Pattern).
+- Java:
+    - functional,
+    - strategy,
+    - CRTP.
 
 The algorithm machinery itself is located within the `code.*` files
 and is not of major interest,
