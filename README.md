@@ -64,7 +64,7 @@ For each slot, we have two options:
     - four neighbors,
     - eight neighbors;
 - Hopf-Lax:
-    - on the edge of a grpah,
+    - on the edge of a graph,
     - across a triangle.
 
 ![A diagram showing plugs going into slots](https://raw.githubusercontent.com/nojhan/algopattern/master/algopattern_operators.svg)
