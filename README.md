@@ -22,6 +22,11 @@ So far, the demo contains:
     - functional,
     - strategy,
     - CRTP.
+- UML (diagrams):
+    - functional,
+    - strategy,
+    - policies,
+    - CRTP.
 
 The algorithm machinery itself is located within the `code.*` files
 and is not of major interest,
