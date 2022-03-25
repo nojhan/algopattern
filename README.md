@@ -67,6 +67,8 @@ For each slot, we have two options:
     - on the edge of a grpah,
     - across a triangle.
 
+![A diagram showing plugs going into slots](https://raw.githubusercontent.com/nojhan/algopattern/master/algopattern_operators.svg)
+
 At the end, by combining those options, we can make up for four different
 algorithms:
 - four neighbors + on edges (4-Dijkstra),
